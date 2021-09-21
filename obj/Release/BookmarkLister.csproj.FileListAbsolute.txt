@@ -1,0 +1,8 @@
+D:\Coding\BookmarkLister\bin\Release\BookmarkLister.exe.config
+D:\Coding\BookmarkLister\bin\Release\BookmarkLister.exe
+D:\Coding\BookmarkLister\bin\Release\BookmarkLister.pdb
+D:\Coding\BookmarkLister\obj\Release\BookmarkLister.Form1.resources
+D:\Coding\BookmarkLister\obj\Release\BookmarkLister.Properties.Resources.resources
+D:\Coding\BookmarkLister\obj\Release\BookmarkLister.csproj.GenerateResource.cache
+D:\Coding\BookmarkLister\obj\Release\BookmarkLister.exe
+D:\Coding\BookmarkLister\obj\Release\BookmarkLister.pdb

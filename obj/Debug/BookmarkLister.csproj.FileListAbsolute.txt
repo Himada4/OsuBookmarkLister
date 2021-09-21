@@ -1,0 +1,9 @@
+D:\Coding\BookmarkLister\bin\Debug\BookmarkLister.exe.config
+D:\Coding\BookmarkLister\bin\Debug\BookmarkLister.exe
+D:\Coding\BookmarkLister\bin\Debug\BookmarkLister.pdb
+D:\Coding\BookmarkLister\obj\Debug\BookmarkLister.csprojAssemblyReference.cache
+D:\Coding\BookmarkLister\obj\Debug\BookmarkLister.Form1.resources
+D:\Coding\BookmarkLister\obj\Debug\BookmarkLister.Properties.Resources.resources
+D:\Coding\BookmarkLister\obj\Debug\BookmarkLister.csproj.GenerateResource.cache
+D:\Coding\BookmarkLister\obj\Debug\BookmarkLister.exe
+D:\Coding\BookmarkLister\obj\Debug\BookmarkLister.pdb
